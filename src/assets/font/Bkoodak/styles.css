@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'B Koodak Bold';
+  src: url(./B+Koodak+Bold.eot);
+  src: url(./B+Koodak+Bold.eot?#iefix) format('embedded-opentype'),
+       url(./B+Koodak+Bold.otf) format('otf'),
+       url(./B+Koodak+Bold.ttf) format('truetype'),
+       url(./B+Koodak+Bold.woff) format('woff'),
+       url(./B+Koodak+Bold.woff2) format('woff2');
+}

@@ -1,0 +1,47 @@
+/* 
+    @font-face {
+    font-family: 'Digi Koodak Bold';
+    src: url('./assets/font/koodak/Digi Koodak Bold.eot');
+    src: url('./assets/font/koodak/Digi Koodak Bold.eot?#iefix') format('embedded-opentype'), url('./assets/font/koodak/Digi Koodak Bold.woff2') format('woff2'), url('./assets/font/koodak/Digi Koodak Bold.woff') format('woff'), url('./assets/font/koodak/Digi Koodak Bold.ttf') format('truetype');
+}
+*/
+
+@font-face {
+        font-family: 'B Koodak Outline';
+        font-weight: normal;
+        src: url('./assets/font/Bkoodak/B Koodak Outline.eot');
+        src: url('./assets/font/Bkoodak/B Koodak Outline.eot?#iefix') format('embedded-opentype'), url('./assets/font/Bkoodak/B Koodak Outline.woff2') format('woff2'), url('./assets/font/Bkoodak/B Koodak Outline.woff') format('woff'), url('./assets/font/Bkoodak/B Koodak Outline.ttf') format('truetype');
+    }
+
+@font-face {
+    font-family: 'B Koodak Bold';
+    font-weight: bold;
+    src: url('./assets/font/Bkoodak/B Koodak Bold.eot');
+    src: url('./assets/font/Bkoodak/B Koodak Bold.eot?#iefix') format('embedded-opentype'), url('./assets/font/Bkoodak/B Koodak Bold.woff2') format('woff2'), url('./assets/font/Bkoodak/B Koodak Bold.woff') format('woff'), url('./assets/font/Bkoodak/B Koodak Bold.ttf') format('truetype');
+}
+
+body {
+    direction: rtl;
+    font-family: B Koodak Bold !important;
+    font-size: 18px;
+    /* background-image: url('assets/image/Rect Light.svg');*/
+}
+
+* {
+    font-family: B Koodak Bold !important;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+ 
+p{
+    margin:0px;
+    padding:0px;
+}
+
+
+ 

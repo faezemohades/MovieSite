@@ -1,0 +1,79 @@
+{
+  "Characters": [
+    {
+      "id": 1,
+      "image": "/gif/Angry-Bird.gif",
+      "title": "Angry-Bird",
+      "link": "/Home/Channels/382149/انيميشن-angry-birds"
+    },
+    {
+      "id": 2,
+      "image": "/gif/BabyBos.gif",
+      "title": "BabyBos",
+      "link": "/Home/Channels/292273/انیمیشن-بچه-رئیس-فصل-دوم"
+    },
+    {
+      "id": 3,
+      "image": "/gif/ladybug.gif",
+      "title": "ladybug",
+      "link": "/Home/Channels/340957/انیمیشن-ماجراجویی-در-پاریس"
+    },
+    {
+      "id": 4,
+      "image": "/gif/masha6.gif",
+      "title": "masha6",
+      "link": "/Home/Channels/129116/کارتون-ماشا-و-میشا"
+    },
+    {
+      "id": 5,
+      "image": "/gif/gif micky new.gif",
+      "title": "mickeymouse",
+      "link": "/Home/Channels/4878/کارتون-میکی-موس"
+    },
+    {
+      "id": 6,
+      "image": "/gif/mig-mig.gif",
+      "title": "mig-mig",
+      "link": "/Home/Channels/4891/کارتون-میگ-میگ"
+    },
+    {
+      "id": 8,
+      "image": "/gif/pat&mat.gif",
+      "title": "pat&mat",
+      "link": "/Home/Channels/5226/کارتون-پت-و-مت"
+    },
+    {
+      "id": 9,
+      "image": "/gif/paw patrol.gif",
+      "title": "paw patrol",
+      "link": "/Home/Channels/98291/انیمیشن-سگ-های-نگهبان"
+    },
+    {
+      "id": 10,
+      "image": "/gif/pink panther.gif",
+      "title": "pink panther",
+      "link": "/Home/Channels/5224/کارتون-پلنگ-صورتی"
+    },
+    {
+      "id": 11,
+      "image": "/gif/spongebob.gif",
+      "title": "spongebob",
+      "link": "/Home/Channels/4885/کارتون-باب-اسفنجی"
+
+    },
+
+    {
+      "id": 12,
+      "image": "/gif/sunnybunny.gif",
+      "title": "sunnybunny",
+      "link": "/Home/Channels/276898/انیمیشن-سانی-بانی"
+    },
+    {
+      "id": 13,
+      "image": "/gif/tomjerry.gif",
+      "title": "tomjerry",
+      "link": "/Home/Channels/4879/کارتون-تام-و-جری"
+    }
+  
+  ]
+}

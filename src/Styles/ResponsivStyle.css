@@ -1,0 +1,754 @@
+﻿
+
+@media (max-width:2560px) {
+    .home-title {
+        margin-inline: 3.8rem;
+    }
+    .slick-dots {
+        position: absolute;
+        bottom: 20%;
+    }
+
+    .content-slider {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 66%;
+        z-index: 99;
+        margin-right: 7rem;
+    }
+
+    .movielist-title {
+        display: none;
+    }
+    .anime-card {
+         min-height: 240px;
+        max-height: 240px;
+    }
+
+}
+
+
+@media (max-width:1440px) {
+    .home-title {
+        margin-inline: 1.5rem;
+    }
+    .slick-dots {
+        position: absolute;
+        bottom: 20%;
+    }
+
+    .content-slider {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 63%;
+        z-index: 90;
+        margin-right: 5.4rem;
+    }
+
+    .char-img {
+        width: 50px;
+        margin: 0 auto;
+    }
+    .home-char-img {
+        width: 140px;
+        margin: 0 auto;
+    }
+    .home-char-title {
+        font-size: 31px;
+        padding-right: 0px;
+        margin-inline: 15px;
+    }
+    .home-char {
+        padding-inline: 4.5rem;
+    }
+
+    .chanel-title {
+        position: absolute;
+        top: 10%;
+        right: 9%;
+    }
+
+    .chanel-side {
+        height: 100%;
+        padding-top: 47%;
+        border-radius: 8px;
+    }
+   .movielist-title {
+        display: none;
+    }
+    .scrol-spinner {
+        z-index: 99;
+        width: 90px;
+        left: 47%;
+        bottom: 2%;
+        position: fixed;
+    }
+    .movie-card {
+        min-height: 215px;
+        max-height: 215px;
+    }
+    .anime-card {
+        min-height: 230px;
+        max-height: 230px;
+     
+    }
+    .series-sec {
+        padding-inline: 32px;
+    }
+    .slider-img {
+        height: 110vh;
+    }
+}
+
+
+@media (max-width:1024px) {
+    .home-title {
+        margin-inline: 1.2rem;
+    }
+
+    .slick-dots {
+        position: absolute;
+        bottom: 20%;
+    }
+
+    .content-slider {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 58%;
+        z-index: 90;
+        margin-right: 5.3rem;
+    }
+
+    .slider-img {
+        height: 75vh;
+    }
+
+    .chanel-title {
+        position: absolute;
+        top: 9.5%;
+        right: 9%;
+    }
+
+    .pic-chanel {
+        width: 100%;
+    }
+
+    .related-title {
+        padding-inline: 40px;
+    }
+
+    .movielist-title {
+        display: none;
+    }
+
+    .scrol-spinner {
+        z-index: 99;
+        width: 90px;
+        left: 46%;
+        bottom: 2%;
+        position: fixed;
+    }
+
+    .movie-card {
+        min-height: 250px;
+        max-height: 250px;
+    }
+
+    .home-char-img {
+        width: 130px;
+        margin: 0 auto;
+    }
+
+
+    .home-char {
+        padding-inline: 70px;
+    }
+
+   
+    .home-char-title {
+        font-size: 29px;
+    }
+
+    .live-sec {
+        width: 45%;
+    }
+    .carosel {
+        height: auto;
+    }
+    .anime-card {
+        min-height: 220px;
+        max-height: 220px;
+    }
+    .series-sec {
+        padding-inline: 43px;
+    }
+}
+
+
+@media (max-width:990px) {
+    .side-plyr {
+        display: none;
+    }
+
+    .box {
+        margin: 0 0 0px;
+    }
+    .movie-card {
+        min-height: 200px;
+        max-height: 205px;
+    }
+    .char-img{
+        width:80px;
+    }
+    .home-char-title {
+        font-size: 25px;
+    }
+    .list {
+        font-size: 25px;
+    }
+    .live-sec {
+        width: 55%;
+        z-index: 99;
+    }
+    .movie-card {
+        min-height: 260px;
+        max-height: 260px;
+    }
+    .slider-img {
+        height: 35vh;
+    }
+   
+}
+
+
+@media (min-width:990px) {
+    .bottom-plyr {
+        display: none;
+    }
+    .slider-img{
+        margin-top:60px;
+    }
+}
+
+
+@media (max-width:768px) {
+
+    .header-icon {
+        width: 35px;
+        cursor: pointer;
+    }
+
+    span {
+        font-size: 10px;
+        line-height: 20px
+    }
+
+    .logo {
+        width: 40px;
+        padding-bottom: 5px;
+        margin-left: 5px;
+    }
+    .home-title {
+        margin-inline: 2.6rem;
+        margin-bottom:10px;
+       
+    }
+
+    .genderbtn {
+        width: 70px;
+    }
+
+    .slick-dots {
+        display: none !important;
+    }
+
+    .content-slider {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 52%;
+        z-index: 90;
+        margin-right: 5rem;
+    }
+
+    .slider-img {
+        height: 55vh;
+    }
+
+    .avatar {
+        width: 60px;
+        margin: 15px;
+        cursor: pointer;
+        border-radius: 20%;
+        padding: 5px;
+        transition: transform .2s linear;
+    }
+
+    .char-img {
+        width: 80px;
+        margin: 0 auto;
+    }
+    .home-char-img {
+        width: 120px;
+        margin: 0 auto;
+    }
+
+    .movie-title {
+        margin: 0px;
+        font-size: 21px;
+    }
+  .pic-chanel {
+        width: 60%;
+    }
+
+    .related-title {
+        padding-inline: 120px;
+    }
+    .related-div{
+    width:45%;
+}
+    .movielist-title {
+        display: none;
+    }
+    .scrol-spinner {
+        z-index: 99;
+        width: 80px;
+        left: 45%;
+        bottom: 2%;
+        position: fixed;
+    }
+    .title-slider {
+        font-size: 25px;
+    }
+    .desc-slider {
+        font-size: 20px;
+     }
+    .movie-card {
+        min-height: 255px;
+        max-height: 255px;
+    }
+
+    .title-chanel {
+        padding-top: 1rem;
+    }
+
+    .home-char-title {
+        font-size: 25px;
+     }
+    .home-char {
+        padding-inline: 65px;
+    }
+     
+    .list{
+        margin-bottom:15px;
+    }
+
+    .live-sec {
+        width:100%;
+        z-index:99;
+    }
+    .live {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    .live-title {
+      
+        font-size: 25px;
+    }
+
+    .anime-card {
+         min-height: 230px;
+        max-height: 230px;
+    }
+    .series-sec {
+        padding-inline: 22px;
+       
+    }
+    
+    }
+
+
+@media (max-width:575px) {
+
+    .chanel-item {
+        display: none;
+    }
+    .play-btn-lg {
+        display: none;
+    }
+
+    .play-btn-sm {
+        display: block;
+    }
+    .content-slider {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 50%;
+        z-index: 90;
+        margin-right: 2rem;
+    }
+    .home-title {
+        margin-inline: 2.5rem;
+        margin-top: 1.5rem;
+    }
+    .movielist-title {
+        display: block;
+    }
+
+    .related-title {
+        padding-inline: 25px;
+    }
+
+   
+    .wrapper {
+        display: grid;
+        place-items: end;
+        width: 3px;
+        height: 3px;
+        margin-left: 20px;
+        margin-top: 30px;
+        transform: rotate(45deg);
+    }
+
+    @keyframes tick-animation {
+        0%, 20% {
+            transform: scaleX(0);
+        }
+
+        30% {
+            transform: scaleX(1);
+        }
+
+        95% {
+            opacity: 1;
+        }
+
+        100% {
+            opacity: 1
+        }
+    }
+
+    .tick {
+        position: relative;
+        height: 5px;
+        width: 15px;
+        margin-right: 15px;
+        transform-origin: 0% 0%;
+        border-radius: 2px;
+        background: #FDFF00;
+        animation: tick-animation 2s ease;
+    }
+
+    @keyframes tick-before-animation {
+        0%, 30% {
+            transform: scaleY(0);
+        }
+
+        45% {
+            transform: scaleY(1);
+        }
+    }
+
+    .tick::before {
+        content: "";
+        position: absolute;
+        bottom: 1px;
+        right: 0;
+        width: 3px;
+        height: 35px;
+        transform-origin: 0% 100%;
+        border-radius: inherit;
+        background: inherit;
+        animation: tick-before-animation 2s ease;
+    }
+    .home-char-title {
+        font-size: 25px;
+    }
+
+    .home-char {
+        padding-inline: 35px;
+    }
+    .slider-img {
+        height: 25vh;
+    }
+    .live-pic {
+        width: 270px;
+    }
+}
+
+
+@media (max-width:425px) {
+  
+    .home-title {
+        margin-inline: 1.2rem;
+        margin-top:1rem;
+        display:flex;
+        justify-content:flex-start;
+    }
+
+    .char-col {
+        display: flex;
+        color: red;
+    }
+
+    .chanel-item {
+        display: none;
+    }
+
+    .slick-dots {
+        display: none !important;
+    }
+
+    .content-slider {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 55%;
+        z-index: 90;
+        margin-right: 2.8rem;
+    }
+
+    .slider-img {
+        height: 30vh;
+    }
+
+    .title-slider {
+        font-size: 16px;
+    }
+
+    .desc-slider {
+        font-size: 13px;
+    }
+
+    .navbar-brand {
+        margin: 0px;
+    }
+
+    .avatar {
+        width: 62px;
+        margin: 10px;
+        cursor: pointer;
+        border-radius: 20%;
+        padding: 5px;
+        transition: transform .2s linear;
+    }
+
+    .char-img {
+        width: 85px;
+        margin: 0 auto;
+    }
+
+    .home-char-img {
+        width: 90px;
+        margin: 0 auto;
+    }
+
+    .channel-card {
+        width: 19rem;
+        height: auto;
+    }
+
+    .related-title {
+        padding-inline: 27px;
+    }
+
+    .scrol-spinner {
+        z-index: 99;
+        width: 80px;
+        left: 41%;
+        bottom: 2%;
+        position: fixed;
+    }
+    .movie-card {
+        min-height: 250px;
+        max-height: 250px;
+    }
+   
+
+    .search-form {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .related-card {
+        min-height: 240px;
+        max-height: 280px;
+    }
+    .live-pic {
+        width:250px;
+    }
+    .anime-card {
+        min-height: 230px;
+        max-height: 230px;
+    }
+    .home-row {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        z-index: 92;
+    }
+    .home-title {
+        margin-bottom: 13px;
+    }
+    .box {
+       
+        -webkit-box-shadow: 0px 0px ;
+        -moz-box-shadow: 0px 0px ;
+        box-shadow: 0px 0px ;
+    }
+
+}
+
+
+@media (max-width:375px) {
+ 
+    .related-title {
+        padding-inline: 9px;
+    }
+    .scrol-spinner {
+        z-index: 99;
+        width: 80px;
+        left: 41%;
+        bottom: 2%;
+        position: fixed;
+    }
+    .img-search {
+        width: 280px;
+    }
+    .home-char-title {
+        font-size: 25px;
+        margin-top:15px;
+    }
+
+    .home-char {
+        padding-inline: 30px;
+    }
+
+    .home-char-img {
+        width: 87px;
+        margin: 0 auto;
+    }
+    
+    .slider-img {
+        height: 30vh;
+    }
+    .live-pic {
+        width: 240px;
+    }
+    .anime-card {
+        min-height: 230px;
+        max-height: 232px;
+    }
+    .home-title {
+        margin-inline: 0.9rem;
+        margin-top: 1rem;
+        margin-bottom: 12px;
+        padding: 0px;
+    }
+
+}
+
+
+@media (max-width:320px) {
+    .content-slider {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 55%;
+        z-index: 90;
+        margin-right: 2rem;
+    }
+    .avatar {
+        width: 55px;
+        margin: 8px;
+        cursor: pointer;
+        border-radius: 20%;
+        padding: 5px;
+        transition: transform .2s linear;
+    }
+
+    .char-img {
+        width: 75px;
+        margin: 0 auto;
+    }
+
+    .home-char-img {
+        width: 95px;
+        margin: 0 auto;
+    }
+
+    .home-char {
+        padding-inline: 10px;
+    }
+
+    .related-card {
+        width: 16rem;
+        min-height: 200px;
+        max-height: 220px;
+    }
+
+    .related-title {
+        padding-inline: 17px;
+    }
+    
+    .scrol-spinner {
+        z-index: 99;
+        width: 80px;
+        left: 37%;
+        bottom: 2%;
+        position: fixed;
+    }
+    .home-title {
+        margin-inline: 0.1rem;
+        margin-top: 1rem;
+        margin-bottom:13px;
+        padding: 0px;
+     }
+    .movie-card {
+        min-height:205px;
+        max-height:210px;
+    }
+
+    .img-search {
+        width: 280px;
+    }
+
+    .channel-card {
+        width: 16.5rem;
+       height:auto;
+        }
+
+    .home-char-title {
+        font-size: 25px;
+        margin-top: 20px;
+        margin:0px;
+        padding:0px;
+    }
+
+    .home-char {
+        padding-inline: 30px;
+    }
+    .slider-img {
+        height: 25vh;
+    }
+    .live-pic {
+        width: 230px;
+    }
+    .anime-card {
+         min-height: 205px;
+        max-height: 210px;
+    }
+    .home-row {
+       margin:0px;
+       padding:0px;
+    }
+    }
+
+
+

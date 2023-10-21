@@ -1,0 +1,5 @@
+﻿https://kids.mp4.ir/
+https://kids.mp4.ir//Home/Video/:id/:title
+https://kids.mp4.ir//Home/Channels/:id/:title
+https://kids.mp4.ir//profile
+
